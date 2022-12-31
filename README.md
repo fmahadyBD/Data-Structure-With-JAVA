@@ -5,4 +5,5 @@ Topic will coverd: </br>
 2) Search</br>
 3)Linkedlist</br>
 4)Tree</br>
-5)Tree Traversal</br>
+5)Stack</br>
+5)Qeue</br>
